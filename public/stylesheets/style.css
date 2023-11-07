@@ -1,0 +1,22 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+}
+
+.button {
+  display: center;
+  padding: 20px 20px;
+  margin: 20px;
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: blue;
+  color: #ffffff;
+}
+
+div {
+  margin: 50px;
+}
